@@ -1,0 +1,14 @@
+{
+  "name": "crv4-telegram_bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that greets users.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0"
+  },
+  "author": "Crovi4",
+  "license": "ISC"
+}
